@@ -159,3 +159,8 @@ Core application interface, specialized agents, coordinator, and local chat hist
 # -BizPilot-AI
 An intelligent multi-agent AI business assistant
 >>>>>>> e4a178a5e9750cd5cb771a7b75e3a88dbb70a8e8
+## 🌐 Live Demo
+
+Try BizPilot AI here:
+
+**[Launch BizPilot AI](https://5gt5xbywbyvcqqbvyjg3y3.streamlit.app/)**
