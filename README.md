@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BizPilot AI 🤖
 
 ### An AI-Powered Multi-Agent Business Assistant
@@ -154,3 +155,7 @@ Core application interface, specialized agents, coordinator, and local chat hist
 
 ### 4. About Page
 ![BizPilot AI About Page](screenshots/about-full.png)
+=======
+# -BizPilot-AI
+An intelligent multi-agent AI business assistant
+>>>>>>> e4a178a5e9750cd5cb771a7b75e3a88dbb70a8e8
